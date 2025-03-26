@@ -3,7 +3,7 @@ Desenvolvimento de um sistema integrado para gerenciamento de chamados e suporte
 
 <H1>HELP BOX</H1>
 
-<h3>💻DEV TEAM💻</h3>
+<h3>💻SCRUM TEAM💻</h3>
 
 - Vanessa Helena Bandeli Scarin – Product Owner 👩‍💼
 - Agatha Kethyllen Ribeiro de Oliveira – Scrum Master 🤵‍♀️
@@ -18,6 +18,8 @@ Desenvolvimento de um sistema integrado para gerenciamento de chamados e suporte
 - Programação Orientada a Objetos I 
 - Projeto de Interface com o Usuário 
 - Banco de Dados
+- Economia e Mercado
+- Gestão Estratégica de Recursos Humanos
 
 
 <h2>REQUISITOS FUNCIONAIS</h2>
