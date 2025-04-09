@@ -6,7 +6,10 @@ Desenvolver um sistema integrado baseado em Inteligência Artificial para gerenc
 
 ---
 
-# HELP BOX
+<div align="center">
+<img src="https://github.com/user-attachments/assets/25c3b68e-e1f5-4edc-9709-054ffd1efca3" width="550"/>
+</div>
+
 
 ---
 
