@@ -59,9 +59,9 @@ Desenvolver um sistema integrado baseado em Inteligência Artificial para gerenc
 
 ## 💡 Tecnologias Utilizadas 💡
 
-- **Astah** para modelagem de diagramas
-- **Git e GitHub** para versionamento
-- Notion para gestão das sprints
+- **Astah** para modelagem de diagramas.
+- **Git e GitHub** para versionamento.
+- Notion para gestão das sprints.
 
 ---
 
