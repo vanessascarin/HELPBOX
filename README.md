@@ -42,7 +42,7 @@ Desenvolver um sistema integrado baseado em Inteligência Artificial para gerenc
 
 ### 🔧 Requisitos Funcionais 🔧
 
-- **Gerenciar chamados**: Clientes abrem chamados, acompanham o andamento e histórico. A IA categoriza, prioriza e sugere soluções. Técnicos diagnosticam e resolvem. ADM possui funções adicionais.
+- **Gerenciar chamados**: Clientes abrem chamados, acompanham o andamento e histórico. A IA prioriza e sugere soluções. Técnicos diagnosticam e resolvem. ADM possui funções adicionais.
 - **Gerenciar relatórios**: Administrador pode gerar relatórios personalizáveis por técnico, cliente, setor, prioridade, e período, com opção de exportação.
 - **Gerenciar usuários**: Cadastrar, editar e excluir usuários com diferentes níveis de acesso.
 
