@@ -28,13 +28,13 @@ Desenvolver um sistema integrado baseado em Inteligência Artificial para gerenc
 
 ## 📚 Disciplinas Envolvidas 📚
 
-- Análise de Sistemas Orientada a Objetos  
-- Engenharia de Software II  
-- Programação Orientada a Objetos I  
-- Projeto de Interface com o Usuário  
-- Banco de Dados  
-- Economia e Mercado  
-- Gestão Estratégica de Recursos Humanos  
+- Análise de Sistemas Orientada a Objetos.
+- Engenharia de Software II.  
+- Programação Orientada a Objetos I. 
+- Projeto de Interface com o Usuário.  
+- Banco de Dados.
+- Economia e Mercado.
+- Gestão Estratégica de Recursos Humanos.
 
 ---
 
