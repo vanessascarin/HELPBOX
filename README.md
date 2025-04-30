@@ -1,4 +1,4 @@
-# PIM – Terceiro Semestre – 2025
+# PIM – Terceiro Semestre – 2025.
 
 ## 🎯 Objetivo 🎯
 
