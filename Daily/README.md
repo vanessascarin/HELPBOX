@@ -6,3 +6,6 @@ Este documento tem como finalidade registrar as Dailys realizadas com o intuito 
 
 ### 📌 19/03
 Reunião direcionada para criação do product backlog, na qual foram citados os pontos descobertos na elicitação que geraram os requisitos funcionais do projeto. Os requisitos não funcionais também foram definidos.
+
+### 📌 26/03
+Reunião concentrada no planejamento do projeto, estabelecendo os prazos e as prioridades. Criação da sprint backlog através da criação das tarefas relacionadas aos requisitos do product backlog.
