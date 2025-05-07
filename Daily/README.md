@@ -9,3 +9,6 @@ Reunião direcionada para criação do product backlog, na qual foram citados os
 
 ### 📌 26/03
 Reunião concentrada no planejamento do projeto, estabelecendo os prazos e as prioridades. Criação da sprint backlog através da criação das tarefas relacionadas aos requisitos do product backlog.
+
+### 📌 02/04
+Reunião para determinar o início da Sprint 1, na qual foi desenvolvido o diagrama de caso de uso. Revisão de como funciona a estrutura UML.
