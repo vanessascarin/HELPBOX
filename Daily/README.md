@@ -21,3 +21,6 @@ Reunião para verificação da Sprint 2, sanar dúvidas e verificar pontos do di
 
 ### 📌 23/04
 Reunião para a verificação da Sprint 3, explicação e compreensão de atrasos buscando gerar soluções, correção de erros gerais e início da Sprint 4.
+
+### 📌 30/04
+Reunião para entrega da Sprint 4. Verificar possíveis erros e sanar dúvidas. Finalização do projeto.
