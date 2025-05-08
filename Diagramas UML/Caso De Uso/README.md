@@ -8,4 +8,3 @@
 ## Gerenciar usuários.
 ![image](https://github.com/user-attachments/assets/a0278261-767f-4bae-9c78-25e477b5fcea)
 
-# Requisitos Não Funcionais
