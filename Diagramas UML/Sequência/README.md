@@ -1,1 +1,1 @@
-
+o diagrama de sequencia
