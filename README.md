@@ -69,7 +69,7 @@ Desenvolver um sistema integrado baseado em Inteligência Artificial para gerenc
 
 | Sprint | Período | Link para o Repositório |
 |--------|---------|--------------------------|
-| Sprint 1 | 02/04 – 09/04. | [Ver no GitHub](https://github.com/SEU-REPO/sprint-1) |
+| Sprint 1 | 02/04 – 09/04. | [Ver no GitHub](https://github.com/vanessascarin/HELPBOX/tree/62e125fb4680dea07d06da9b9b51646cdd7ddb9b/Diagramas%20UML/Caso%20De%20Uso) |
 | Sprint 2 | 10/04 – 16/04. | [Ver no GitHub](https://github.com/SEU-REPO/sprint-2) |
 | Sprint 3 | 17/04 – 23/04. | [Ver no GitHub](https://github.com/SEU-REPO/sprint-3) |
 | Sprint 4 | 24/04 – 30/04. | [Ver no GitHub](https://github.com/SEU-REPO/sprint-4) |
