@@ -15,7 +15,6 @@ Desenvolver um sistema integrado baseado em Inteligência Artificial para gerenc
 
 ## 💻 SCRUM  TEAM 💻
 
-
 | Nome     | GitHub | Função     |
 |----------|--------|------------|
 | Vanessa Helena Bandeli Scarin. | [@vanessascarin](https://github.com/vanessascarin) | Product Owner 👩‍💼. |
