@@ -1,2 +1,1 @@
-# Requisitos Funcionais
 ## Gerenciar chamados.
