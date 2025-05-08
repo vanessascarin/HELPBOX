@@ -13,7 +13,7 @@ Desenvolver um sistema integrado baseado em Inteligência Artificial para gerenc
 
 ---
 
-## 💻 SCRUM TEAM 💻
+## 💻 SCRUM  TEAM 💻
 
 | Nome     | GitHub | Função     |
 |----------|--------|------------|
