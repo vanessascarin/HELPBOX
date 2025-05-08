@@ -17,7 +17,7 @@ Reunião para determinar o início da Sprint 1, na qual foi desenvolvido o diagr
 Reunião para verificação da Sprint 1, sanar as dúvidas que surgiram no período e inicializar a Sprint 2, os diagramas de classes.
 
 ### 📌 16/04
-Reunião para verificação da Sprint 2, sanar dúvidas e verificar pontos do diagrama de caso de uso que seriam alterados a partir das modificações no diagrama de classe. Início da Sprint 3.
+Reunião para verificação da Sprint 2, sanar as dúvidas e verificar pontos do diagrama de caso de uso que seriam alterados a partir das modificações no diagrama de classe. Início da Sprint 3.
 
 ### 📌 23/04
 Reunião para a verificação da Sprint 3, explicação e compreensão de atrasos buscando gerar soluções, correção de erros gerais e início da Sprint 4.
