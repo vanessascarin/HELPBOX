@@ -14,7 +14,7 @@ Reunião concentrada no planejamento do projeto, estabelecendo os prazos e as pr
 Reunião para determinar o início da Sprint 1, na qual foi desenvolvido o diagrama de caso de uso. Revisão de como funciona a estrutura UML.
 
 ### 📌 09/04
-Reunião para verificação da Sprint 1, sanar dúvidas que surgiram no período e inicializar a Sprint 2, os diagramas de classes.
+Reunião para verificação da Sprint 1, sanar as dúvidas que surgiram no período e inicializar a Sprint 2, os diagramas de classes.
 
 ### 📌 16/04
 Reunião para verificação da Sprint 2, sanar dúvidas e verificar pontos do diagrama de caso de uso que seriam alterados a partir das modificações no diagrama de classe. Início da Sprint 3.
