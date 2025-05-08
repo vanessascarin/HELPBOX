@@ -71,5 +71,5 @@ Desenvolver um sistema integrado baseado em Inteligência Artificial para gerenc
 |--------|---------|--------------------------|
 | Sprint 1 | 02/04 – 09/04. | [Ver no GitHub](https://github.com/vanessascarin/HELPBOX/tree/62e125fb4680dea07d06da9b9b51646cdd7ddb9b/Diagramas%20UML/Caso%20De%20Uso) |
 | Sprint 2 | 10/04 – 16/04. | [Ver no GitHub](https://github.com/vanessascarin/HELPBOX/tree/efb8b615fabcf0efd301a46c952f2ded27ddfac6/Diagramas%20UML/Classe) |
-| Sprint 3 | 17/04 – 23/04. | [Ver no GitHub](https://github.com/SEU-REPO/sprint-3) |
+| Sprint 3 | 17/04 – 23/04. | [Ver no GitHub](https://github.com/vanessascarin/HELPBOX/tree/14624ffab58742987c37175bde38659b5eaef5f1/Diagramas%20UML/Sequ%C3%AAncia) |
 | Sprint 4 | 24/04 – 30/04. | [Ver no GitHub](https://github.com/SEU-REPO/sprint-4) |
