@@ -4,5 +4,3 @@
 
 ## Gerenciar relatórios.
 ![image](https://github.com/user-attachments/assets/3de59b3d-f4ad-43ed-9dd3-0d04dd9261f8)
-
-## Gerenciar usuários.
