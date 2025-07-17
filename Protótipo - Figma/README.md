@@ -4,6 +4,7 @@
 
 🔗 **Acesse o protótipo:** https://www.figma.com/design/oRaLcuuv3f5Wz8Ai6TgF8W/PIM?node-id=0-1&p=f
 
+
 ## 📐 Informações do Protótipo
 
 - Desenvolvido no **Figma**, versão **desktop** (1440 x 1024).
