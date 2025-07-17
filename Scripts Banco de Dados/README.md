@@ -12,7 +12,7 @@
 	    sobrenome_User VARCHAR(255) NOT NULL
 	);
 
-## CRIAÇÃO DAS TABELAS DE USUARIOS
+### CRIAÇÃO DAS TABELAS DE USUARIOS
 
 	CREATE TABLE Cliente ( -- 1
 	    id_User INT PRIMARY KEY,
@@ -50,7 +50,7 @@
 	END;
 
 
-## Trigger para padrozinar o CASE do Cargo de acesso
+## Trigger para padrozinar o CASE dos níveis de acesso
 
 	CREATE TRIGGER trg_Usuario_PadronizarCargo
 	ON Usuario
