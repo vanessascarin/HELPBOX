@@ -16,5 +16,8 @@ envolvimento do banco de dados;
 do teste;
 - A prioridade do teste a ser feito, o responsável pelo teste; e
 - Os status, diz o andamento dos testes.
+<img width="1319" height="324" alt="image" src="https://github.com/user-attachments/assets/a0fd277e-11c1-42da-abae-87c55dd83e20" />
+
 
 **📖 Uma planilha de teste serve para documentar e organizar os resultados de testes de software ou de qualquer outro processo que envolva testes. Ela ajuda a mapear a execução dos testes, registrar os resultados esperados e reais, e controlar as alterações realizadas, permitindo uma análise detalhada e eficaz do desempenho do sistema ou produto.**
+
