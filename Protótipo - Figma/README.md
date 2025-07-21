@@ -15,17 +15,22 @@ ser um sistema interno de uma empresa, as funcionalidades estarão disponíveis
 apenas para **usuários autenticados**, sendo este requisito demonstrado como essencial
 no diagrama de caso de uso. Caso o usuário esqueça ou perca a senha, ao selecionar
 a opção, será informado que essa alteração deve ser solicitada ao administrador,
-visando proteção de dados.
+visando proteção de dados. <br/>
+          <img width="600" height="500" alt="Image" src="https://github.com/user-attachments/assets/30bea7a5-b65f-4bc5-96ff-a74092c4e352" /> 
+
 
   As funções disponíveis para o administrador são a **“Abertura de Chamados”** na
 qual ele preencherá um formulário dividido em 3 partes que visa compreender de
 maneira efetiva o chamado. Após o envio do formulário, o usuário receberá uma
 solução inicial gerada automaticamente pela **inteligência artificial** e terá de dar uma
 devolutiva se esta foi uma resolução eficiente ou não, em caso de não ter sido, haverá
-encaminhamento do chamado para um técnico específico.
+encaminhamento do chamado para um técnico específico. <br/>
+<img width="1239" height="547" alt="Image" src="https://github.com/user-attachments/assets/267cb481-fa48-4e06-a9b9-1a17c9fc5ed9" />
 
   A função de **“Gerenciar Usuário”**, na qual o administrador poderá adicionar,
-excluir ou alterar as informações do usuário. A função de **“Verificar Chamados”** na
+excluir ou alterar as informações do usuário. <br/>
+<img width="600" height="500" alt="Image" src="https://github.com/user-attachments/assets/8821d3c6-13e9-44ad-bc05-cfd2083f3d9a" />  <br/>
+A função de **“Verificar Chamados”** na
 qual é possível ter acesso aos chamados abertos e também ao histórico de chamados.
 A função **“Gerar Relatório”** na qual seleciona-se os filtros para a construção de um
 relatório que pode ser exportado em formato PDF.
