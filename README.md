@@ -19,7 +19,7 @@ Desenvolver um sistema integrado baseado em Inteligência Artificial para gerenc
 |----------|--------|------------|
 | Vanessa Helena Bandeli Scarin. | [@vanessascarin](https://github.com/vanessascarin) | Product Owner 👩‍💼. |
 | Agatha Kethyllen Ribeiro de Oliveira. | [@agathaketh](https://github.com/agathaketh) | Scrum Master 👩‍💼. |
-| Camilly Vitória Menezes Rodrigues. | [@camillyvii](https://github.com/camillyvii) | Developer Team 👩‍💻. |
+| Camilly Vitória Menezes Rodrigues. | [@camillymenezes](https://github.com/camillyvii) | Developer Team 👩‍💻. |
 | Guilherme dos Santos Damascena. | [@damascenagui](https://github.com/damascenagui) | Developer Team 👩‍💻. |
 | Micaias Leonardo Costa Viola. | [@micaiasviola](https://github.com/micaiasviola) | Developer Team 👩‍💻. |
 | João Lucas Alves Gregorio. | [@Jotaphp](https://github.com/Jotaphp) | Developer Team 👩‍💻. |
